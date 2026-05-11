@@ -1,8 +1,7 @@
 <h2 align="center">YoungjinChoi 's Github</h2>
 <br><br><br>
 <div align="center">
-  안녕하세요! 신입 개발자 최영진 입니다.<br>
-  프론트와 백엔드 모두 관심있는 열정 가득한 신입 개발자 입니다!
+  안녕하세요! 최영진 입니다.<br>
 </div>
 <br><br><br>
 <div align="center">⚒ Tech Stack ⚒</div><br>
