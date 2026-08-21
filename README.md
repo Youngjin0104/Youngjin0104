@@ -24,13 +24,6 @@
 <hr>
 <br><br><br>
 <div align="center">
-  <h3>📖주요 프로젝트📖</h3>
-  <div>팀 프로젝트(청와대 홈페이지 클론코딩) : https://github.com/Youngjin0104/team-project-president.git
-</div>
-<br><br><br>
-<hr>
-<br><br><br>
-<div align="center">
   <h3>Contact</h3>
   <div>
     gmail : crona.yc@gmail.com<br>
